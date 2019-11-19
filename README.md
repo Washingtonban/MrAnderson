@@ -46,9 +46,13 @@ Esse é um projeto de automação de teste WEB com RobotFramework
 
 > Checklist sugerido para o code review:
 	# Verificar a mensagem de  commit se está de acordo com o project guide.
+
 	# Verificar o Code Style
-	# Verificar a semântica do código, nome de variável, nome do método, verificar se está de acordo com a funcionalidade 
+	
+	# Verificar a semântica do código, nome de variável, nome do método, verificar se está de acordo com a funcionalidade
+
 	# Verificar a lógica do código
+	
 	## Não realizar revisão com pressa, o processo de code review leva tempo mas garante ganho de qualidade.
 
 #############################################################################################
